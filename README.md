@@ -16,6 +16,7 @@
   </a>
 </p>
 
+![Learning](https://img.shields.io/badge/focus-learning-blue?style=for-the-badge&logo=readthedocs)
 
 
 ---
