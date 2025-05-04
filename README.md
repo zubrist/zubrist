@@ -11,8 +11,8 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,bitbucket,CSS,fastapi,figma,java,md,MySQL,postman,py,react," />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,bitbucket,CSS&theme=light,fastapi,figma,java,md,MySQL,postman,py,react," />
   </a>
 </p>
 <!---
