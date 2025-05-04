@@ -35,6 +35,22 @@
 <!-- WakaTime Stats 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zubrist&layout=compact&theme=radical)](https://wakatime.com/@zubrist)
 -->
+### 🧭 My Dev Journey
+
+```mermaid
+journey
+  title Journey of a Curious Dev
+  section Getting Started
+    Learned C/C++ Basics    : 2018
+    First Java App          : 2019
+    Web Dev Crash Course    : 2020
+  section Levelling Up
+    Built Docker Projects   : 2022
+    Learned FastAPI         : 2023
+    Full-Stack App Launch   : 2024
+  section Mastering It
+    Exploring DevOps + AI   : 2025
+```
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zubrist&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
