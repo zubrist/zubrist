@@ -32,6 +32,9 @@
 </p>
 -->
 ---
-<!-- WakaTime Stats -->
+<!-- WakaTime Stats 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zubrist&layout=compact&theme=radical)](https://wakatime.com/@zubrist)
+-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zubrist&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
