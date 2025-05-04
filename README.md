@@ -16,11 +16,11 @@
   </a>
 </p>
 
-![Learning](https://img.shields.io/badge/focus-learning-blue?style=for-the-badge&logo=readthedocs)
-
+<!-- ![Learning](https://img.shields.io/badge/focus-learning-blue?style=for-the-badge&logo=readthedocs)
+-->
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -30,9 +30,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubrist&theme=radical" alt="GitHub Streak" />
 </p>
-
+-->
 ---
-<!---
-zubrist/zubrist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- WakaTime Stats -->
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zubrist&layout=compact&theme=radical)](https://wakatime.com/@zubrist)
+
